@@ -1,0 +1,3 @@
+[submodule "examples/simpleapp"]
+	path = examples/simpleapp
+	url = https://github.com/butchmarshall/ruby-jive-sdk-example-simpleapp
